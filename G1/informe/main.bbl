@@ -1,0 +1,53 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{guia_piezoelectrico}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d52e1b7037a79385756d21cac4fc3a0a}{%
+           family={Física-FCEyN\bibnamedelimb -\bibnamedelima UBA},
+           familyi={F\bibinithyphendelim F\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod\bibinitdelim U\bibinitperiod},
+           given={Departamento},
+           giveni={D\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{d52e1b7037a79385756d21cac4fc3a0a}
+      \strng{fullhash}{d52e1b7037a79385756d21cac4fc3a0a}
+      \strng{bibnamehash}{d52e1b7037a79385756d21cac4fc3a0a}
+      \strng{authorbibnamehash}{d52e1b7037a79385756d21cac4fc3a0a}
+      \strng{authornamehash}{d52e1b7037a79385756d21cac4fc3a0a}
+      \strng{authorfullhash}{d52e1b7037a79385756d21cac4fc3a0a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Piezoelectricidad}
+      \verb{urlraw}
+      \verb http://materias.df.uba.ar/labo4Ba2016c1/files/2014/03/Piezo.pdf
+      \endverb
+      \verb{url}
+      \verb http://materias.df.uba.ar/labo4Ba2016c1/files/2014/03/Piezo.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
